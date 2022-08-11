@@ -308,8 +308,8 @@ section{
     background: url(../image/banner-bg.webp) no-repeat;
     background-position: center;
     background-size: cover;
-    padding-top: 17rem;
-    padding-bottom: 10rem;
+    padding-top: 21rem;
+    padding-bottom: 14rem;
 }
 
 .home .content{
@@ -637,5 +637,9 @@ section{
     color:var(--light-color);
     line-height: 1.8;
     padding:1rem 0;
+}
+
+.products{
+    margin-bottom: 5rem;
 }
 
